@@ -6,3 +6,8 @@ https://www.researchgate.net/publication/325670481_NFD_Developer's_Guide
 http://named-data.net/doc/NLSR/current/ROUTER-CONFIG.html
 //NFD
 http://named-data.net/doc/NFD/current/
+
+
+//Configuration time 
+lsa-refresh-time 240
+death-router-time 300
