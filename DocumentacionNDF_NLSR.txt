@@ -1,0 +1,8 @@
+//Main page
+https://named-data.net
+//Programming guide
+https://www.researchgate.net/publication/325670481_NFD_Developer's_Guide
+//NLSR Router configuration
+http://named-data.net/doc/NLSR/current/ROUTER-CONFIG.html
+//NFD
+http://named-data.net/doc/NFD/current/
